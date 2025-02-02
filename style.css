@@ -1,0 +1,52 @@
+* {
+	font-family: 'Slabo 27px', serif;
+	box-sizing: border-box;
+}
+
+#logo {
+	color: dodgerblue;
+	text-decoration: none;
+	margin: 10px 5px 10px 200px;
+	
+}
+
+#navbar ul li a {
+	text-decoration: none;
+	font-weight: 600;
+
+
+}
+
+#navbar ul li a:hover {
+	color: green;
+}
+
+#navbar ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 15px;
+	font-weight: 300;
+
+
+	
+	
+}
+
+#navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+
+}
+nav {
+	margin: 10px 100px 10px 10px;
+}
+
+#nav {
+	align-content: left;
+}
+
+#bg {
+	background-image: cover;
+}
